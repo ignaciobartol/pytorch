@@ -339,7 +339,7 @@ def cudart():
     This function initializes the CUDA runtime environment if it is not already
     initialized and returns the CUDA runtime API module (_cudart). The CUDA
     runtime API module provides access to various CUDA runtime functions.
-    
+
     Args:
         ``None``
 
